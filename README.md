@@ -2,7 +2,7 @@
 
 Por supuesto, aquí tienes un ejemplo de un archivo **README.md** para tu proyecto **Telecom X - Parte 2** que puedes ajustar según tus necesidades:
 
-```markdown
+
 # Proyecto Telecom X – Parte 2: Predicción de Cancelación de Clientes (Churn)
 
 ---
@@ -103,4 +103,3 @@ df = pd.read_csv('data/TelecomX_Data.csv')
 ```
 
 ¿Quieres que te ayude a adaptar o agregar algo más específico?
-```
